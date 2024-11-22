@@ -1,0 +1,8 @@
+config:
+  aws:region: us-west-2
+  numeris-book:dbUsername: dbadmin
+  numeris-book:dbPassword:
+    secure: AAABAGddujR9nLiP54VZNvUM3dsJEnbzQpQBKZ2sPZSEEkBfEOY5ChNRSZYL
+  numeris-book:opensearchMasterUser: master-user
+  numeris-book:opensearchMasterPassword:
+    secure: AAABAMyhqsplQXugL9hMNSLLiLHahOl3CfwIIfzAASAWpn3ItNHkre+tXu3f1VpmtL5A3A7o
